@@ -20,6 +20,8 @@ La app mostrará automáticamente el valor de la propina y el total a pagar.
 - View Binding
 - ConstraintLayout
 - Git + GitHub
+- Gradle-8.14.2
+- JDK 22.0.2
 
 ## Capturas de pantalla 📱
 
