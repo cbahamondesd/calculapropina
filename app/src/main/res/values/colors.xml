@@ -1,0 +1,22 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorSecondary">#03DAC5</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorOnBackground">#000000</color>
+
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#000000</color>
+
+    <color name="colorError">#B00020</color>
+    <color name="colorOnError">#FFFFFF</color>
+
+    <!-- Extras personalizados -->
+    <color name="cardStroke">#D1C4E9</color>
+    <color name="titleAccent">#3700B3</color>
+    <color name="colorSurfaceContainer">#F5F5F5</color> <!-- gris claro -->
+
+</resources>
