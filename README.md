@@ -23,6 +23,8 @@ La app mostrará automáticamente el valor de la propina y el total a pagar.
 
 ## Capturas de pantalla 📱
 
+![Captura de la app](images/captura_app.png)
+
 
 
 ## Cómo ejecutar el proyecto ⚙️
